@@ -1,6 +1,6 @@
 name: "dasmiley's"
 favicon: null
-layout_spectrum: 0.50805
+layout_spectrum: 1
 typography_spectrum: 0.84974
 title: lifeofsmiley
 cta:
@@ -23,7 +23,7 @@ color:
     - '#8d7c75'
     - '#d4c7bf'
   brandStrength: 0.9375
-  lightness: 0.8125
-  saturation: 0.8125
-  rhythmicContrast: 0.75
+  lightness: 0.25
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
