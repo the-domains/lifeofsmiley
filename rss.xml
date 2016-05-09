@@ -4,8 +4,15 @@
         <description><![CDATA[DEAN&ELISKA:)]]></description>
         <link>https://thegrid.ai/lifeofsmiley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 12:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 12:34:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lifeofsmiley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d9e589a-4b84-4b80-850f-2a52141c7adb.jpg">]]></description>
+            <link>https://thegrid.ai/lifeofsmiley/0d774af9-0351-4caa-b596-73e1bff6ed5c/index.html</link>
+            <guid isPermaLink="false">0d774af9-0351-4caa-b596-73e1bff6ed5c</guid>
+            <pubDate>Mon, 09 May 2016 12:34:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2216045-866c-4a90-855f-acfc265e0d5a.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lifeofsmiley/4aa8975b-e864-411d-b3c5-529c353f18da/index.html</link>
             <guid isPermaLink="false">4aa8975b-e864-411d-b3c5-529c353f18da</guid>
             <pubDate>Mon, 09 May 2016 12:02:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38a708ee-cf76-415f-86e3-c1dea4593bf9.gif">]]></description>
-            <link>https://thegrid.ai/lifeofsmiley/93b7c351-c248-4b17-986f-bcaf92f68226/index.html</link>
-            <guid isPermaLink="false">93b7c351-c248-4b17-986f-bcaf92f68226</guid>
-            <pubDate>Wed, 04 May 2016 23:36:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
