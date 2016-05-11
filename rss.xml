@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[DEAN&ELISKA:)]]></title>
-        <description><![CDATA[DEAN&ELISKA:)]]></description>
+        <title><![CDATA[DEAN & ELISKA :)]]></title>
+        <description><![CDATA[DEAN & ELISKA :)]]></description>
         <link>https://thegrid.ai/lifeofsmiley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 12:54:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 15:01:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lifeofsmiley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Inspiration is highly overrated. If you sit around and wait for the clouds to part, it's not liable to ever happen. More often than not, work is salvation.</p>]]></description>
+            <link>https://thegrid.ai/lifeofsmiley/inspiration-is-highly-overrated-if-you-sit-around-and-wait/index.html</link>
+            <guid isPermaLink="false">4dc4691d-3da1-4111-82ec-2dddf014667f</guid>
+            <pubDate>Wed, 11 May 2016 15:00:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CROWNED land]]></title>
             <description><![CDATA[<article><h1>CROWNED land</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4eaa8119eee89301f7fd8cdd2fbd1d5fb3fab7bf.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lifeofsmiley/f91220fd-c4ac-4f02-afb7-d88020488573/index.html</link>
             <guid isPermaLink="false">f91220fd-c4ac-4f02-afb7-d88020488573</guid>
             <pubDate>Mon, 09 May 2016 13:13:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72864360-7be8-4c82-9eb9-e55104ce6e3a.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/lifeofsmiley/0a8dd926-a97a-4f4d-9822-bce55e1d4f57/index.html</link>
-            <guid isPermaLink="false">0a8dd926-a97a-4f4d-9822-bce55e1d4f57</guid>
-            <pubDate>Mon, 09 May 2016 13:10:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
