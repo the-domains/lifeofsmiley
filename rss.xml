@@ -4,8 +4,14 @@
         <description><![CDATA[DEAN & ELISKA :)]]></description>
         <link>https://thegrid.ai/lifeofsmiley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 15:02:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 15:11:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lifeofsmiley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/lifeofsmiley/5966bf3b-ba07-4724-9245-3a50472fa65f/index.html</link>
+            <guid isPermaLink="false">5966bf3b-ba07-4724-9245-3a50472fa65f</guid>
+            <pubDate>Wed, 11 May 2016 15:11:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Inspiration is highly overrated. If you sit around and wait for the clouds to part, it's not liable to ever happen. More often than not, work is salvation. </p>]]></description>
@@ -68,13 +74,6 @@
             <link>https://thegrid.ai/lifeofsmiley/cdfbb06d-3d2a-45ac-b35f-8119726a1aae/index.html</link>
             <guid isPermaLink="false">cdfbb06d-3d2a-45ac-b35f-8119726a1aae</guid>
             <pubDate>Mon, 09 May 2016 13:14:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ad47c13-ddf7-42c1-a86f-fa9b8363dea4.jpg">]]></description>
-            <link>https://thegrid.ai/lifeofsmiley/f91220fd-c4ac-4f02-afb7-d88020488573/index.html</link>
-            <guid isPermaLink="false">f91220fd-c4ac-4f02-afb7-d88020488573</guid>
-            <pubDate>Mon, 09 May 2016 13:13:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
