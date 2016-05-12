@@ -1,4 +1,4 @@
-name: 'dean & eliska'
+name: 'dean & eliska :)'
 favicon: null
 layout_spectrum: 0.42503
 typography_spectrum: 0.87172
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#467d9b'
-    - '#632319'
-    - '#003a70'
-    - '#c0bec1'
-  brandStrength: 0.5
-  lightness: 0.5625
-  saturation: 0.9375
-  rhythmicContrast: 0
+    - '#966624'
+    - '#fff379'
+    - '#e3b85a'
+    - '#160807'
+    - '#bbc7d3'
+  brandStrength: 0.8125
+  lightness: 0.875
+  saturation: 0.4375
+  rhythmicContrast: 0.25
 purpose: []
