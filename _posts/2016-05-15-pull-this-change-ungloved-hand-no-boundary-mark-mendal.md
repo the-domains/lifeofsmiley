@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-15T11:28:12.780Z'
-dateModified: '2016-05-15T11:23:13.415Z'
-title: 'pull this change ungloved hand - no boundary '
+datePublished: '2016-05-15T11:29:58.378Z'
+dateModified: '2016-05-15T11:28:28.104Z'
+title: pull this change
 author: []
 sourcePath: _posts/2016-05-15-pull-this-change-ungloved-hand-no-boundary-mark-mendal.md
 authors: []
@@ -21,6 +21,10 @@ url: pull-this-change-ungloved-hand-no-boundary-mark-mendal/index.html
 _type: Article
 
 ---
-# pull this change ungloved hand - no boundary 
+# pull this change
+
+# ungloved hand 
+
+# - no boundary 
 
 # **Mark Mendal**
