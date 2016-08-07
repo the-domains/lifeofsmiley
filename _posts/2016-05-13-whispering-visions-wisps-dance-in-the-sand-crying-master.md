@@ -1,26 +1,24 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'Whispering visions, wisps dance in the sand Crying "Master, come free me with your magical hands." Pamela Dewison'
-datePublished: '2016-05-13T00:29:07.227Z'
-dateModified: '2016-05-13T00:29:05.041Z'
-title: ''
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+datePublished: '2016-08-07T01:09:09.701Z'
 sourcePath: _posts/2016-05-13-whispering-visions-wisps-dance-in-the-sand-crying-master.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-07T01:09:09.337Z'
+title: ''
+publisher: {}
+description: >-
+  Whispering visions, wisps dance in the sand Crying "Master, come free me with
+  your magical hands." Pamela Dewison
+inLanguage: null
+inNav: false
+starred: false
 url: whispering-visions-wisps-dance-in-the-sand-crying-master/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ecb812f-d385-4915-ac31-2745f8f9ef33.jpg)
-
-Whispering visions, wisps dance in the sand Crying "Master, come free me with your magical hands." Pamela Dewison
+**Whispering visions, wisps dance in the sand Crying "Master, come free me with your magical hands." **Pamela Dewison
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c9dfec746a4c4ba742b7acf2d17384fb64bc479.jpg)
