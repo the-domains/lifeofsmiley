@@ -4,8 +4,15 @@
         <description><![CDATA[DEAN & ELISKA :)  lightofsmiley]]></description>
         <link>https://thegrid.ai/lifeofsmiley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 20:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 20:10:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lifeofsmiley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a88ab1f0551f3a3ccdbb95ed55e7974f3a8a35a9.jpg">]]></description>
+            <link>https://thegrid.ai/lifeofsmiley/ded07f98-b525-418b-a64e-c92184268c07/index.html</link>
+            <guid isPermaLink="false">ded07f98-b525-418b-a64e-c92184268c07</guid>
+            <pubDate>Tue, 09 Aug 2016 20:10:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I still see the world as a place of bitter irony and black humour, failed hopes, dashed plans. I hope to make my work sparer, to outgrow my desire to show off. Clive Sinclair]]></title>
             <description><![CDATA[<article><h1>I still see the world as a place of bitter irony and black humour, failed hopes, dashed plans. I hope to make my work sparer, to outgrow my desire to show off. Clive Sinclair</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/372ddb97-6fe7-437e-99b6-4a202af86f9f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lifeofsmiley/a165cf7f-c73e-4735-a4eb-29179b991d01/index.html</link>
             <guid isPermaLink="false">a165cf7f-c73e-4735-a4eb-29179b991d01</guid>
             <pubDate>Wed, 25 May 2016 18:56:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7f7c40e-da52-4a01-b09d-2ef544cbedc3.jpg">]]></description>
-            <link>https://thegrid.ai/lifeofsmiley/mark-mendal/index.html</link>
-            <guid isPermaLink="false">b7140f53-ebb7-492c-9003-e8e9ace31c0c</guid>
-            <pubDate>Fri, 20 May 2016 11:36:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
