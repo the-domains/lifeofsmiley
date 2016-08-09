@@ -1,7 +1,7 @@
 name: 'dean & eliska :) lifeofsmiley'
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0
+typography_spectrum: 0.9733865018934011
 title: 'DEAN & ELISKA :)  lightofsmiley'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#dee3dd'
-    - '#632101'
-    - '#70afb4'
-    - '#f05b20'
-    - '#ffa373'
-  brandStrength: 0.375
-  lightness: 0.4375
-  saturation: 0.6875
-  rhythmicContrast: 0.5
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
+  brandStrength: 0.9300634479150176
+  lightness: 0.1361883047502488
+  saturation: 0.6658844784833491
+  rhythmicContrast: 0.8231399939395487
 purpose: []
