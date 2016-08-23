@@ -1,4 +1,3 @@
-layout_spectrum: 0.8159517114982009
 typography_spectrum: 0.652914242586121
 color:
   brandColors:
@@ -11,19 +10,24 @@ color:
   lightness: 0.3826066062320024
   saturation: 0.3022146231960505
   rhythmicContrast: 0.7769838797394186
-name: 'dean & eliska :) lifeofsmiley'
-favicon: null
-title: 'DEAN & ELISKA :)  lightofsmiley'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8159517114982009
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: 'dean & eliska :) lifeofsmiley'
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: art&design
+    url: 'http://www.lagrandecache.com/'
+    type: external
+favicon: null
+title: 'DEAN & ELISKA :)  lightofsmiley'
 purpose: []
