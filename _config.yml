@@ -28,6 +28,9 @@ navigation:
   - name: art&design
     url: 'http://www.lagrandecache.com/'
     type: external
+  - name: portfolio
+    url: 'http://www.eliśkasmiley.com/'
+    type: external
 favicon: null
 title: 'DEAN & ELISKA :)  lightofsmiley'
 purpose: []
